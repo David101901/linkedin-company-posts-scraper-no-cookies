@@ -1,0 +1,16 @@
+[
+    {
+        "company_name": "Google",
+        "post_url": "https://www.linkedin.com/company/google/posts/xyz",
+        "post_content": "Exciting announcement from Google!",
+        "reaction_count": {
+            "likes": 150,
+            "comments": 20
+        },
+        "media_attachments": [
+            "https://media.com/image.jpg",
+            "https://media.com/article.pdf"
+        ],
+        "timestamp": 1677859200000
+    }
+]
